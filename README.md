@@ -2,6 +2,8 @@ goland activate code:
 
 https://shareappscrack.com/jetbrains-goland/
 
+https://contentim.ru/how-to-activation-intellij-idea-license-server
+
 cloud native app: 
 
 https://oceanofpdf.org/cloud-native-programming-golang-pdf-free/#
