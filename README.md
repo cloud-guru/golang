@@ -15,3 +15,10 @@ https://www.openmymind.net/assets/go/go.pdf
 
 series go:
 https://techmaster.vn/categories/457/p/5/go
+
+
+api handle: 
+* json to go
+https://appliedgo.net/json/ 
+
+https://mholt.github.io/json-to-go/
