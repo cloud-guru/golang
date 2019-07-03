@@ -4,6 +4,7 @@ https://shareappscrack.com/jetbrains-goland/
 
 https://contentim.ru/how-to-activation-intellij-idea-license-server
 
+tip: auto format code: https://stackoverflow.com/questions/17879475/how-enable-auto-format-code-for-intellij-idea 
 cloud native app: 
 
 https://oceanofpdf.org/cloud-native-programming-golang-pdf-free/#
